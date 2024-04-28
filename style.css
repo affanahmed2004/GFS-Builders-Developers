@@ -1,0 +1,10 @@
+.hero{
+    background-image: url('/image/pexels-pixabay-273209.jpg');
+    width: 100%; /* Or you can specify a specific width, e.g., 100px */
+    /* Set the height of the image */
+    background-size: cover;
+}
+
+span{
+    color: #e9212e;
+}
